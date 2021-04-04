@@ -1,1 +1,3 @@
-# socialmedia_automobile_marketing
+## Luxury automobile branding recommedations through social network analysis
+# Introduction
+Luxury car is among the fastest growing industries in the next five years, and it is estimated at approximately 12% of CAGR1. In this report, we will look at how social influencer can make impact on luxury car industry on social media, more specifically on Twitter. By implementing social network analysis, we will have better understand of how attributes of interests from influencers can play important roles in advertisements of different luxury cars and followers' reactions and attitudes towards influencer’s tweets. Moreover, performing graph analysis using Google Vision can investigate relative hashtags and mentions on the corresponding pictures, and this can help to do later analysis on attributes. Overall, this report aims to leverage on social influencers to make more impactful campaigns and advertisements on Twitter.
